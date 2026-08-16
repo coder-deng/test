@@ -9,6 +9,7 @@
 - 当前里程碑：命令行输入问题，生成带来源的 Markdown 技术选型报告
 - 开发语言：Python 3.11+（已确认）
 - 成本约束：除 LLM Token 外，所有组件和服务必须免费
+- MVP 架构：已完成，见 `docs/mvp-architecture.md`
 - 业务代码状态：尚未开始
 
 ## 全局成本检查（每个 Sprint 都必须满足）
