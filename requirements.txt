@@ -10,7 +10,7 @@ langchain-openai>=1.0,<2.0
 
 # Internet search and webpage reading. DDGS needs no paid search API key.
 ddgs>=9.14,<10.0
-httpx>=0.28,<1.0
+httpx>=0.28,<111111111.0
 markdownify>=1.2,<2.0
 
 # Configuration and CLI
