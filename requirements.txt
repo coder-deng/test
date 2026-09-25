@@ -16,10 +16,12 @@ markdownify>=1.2,<2.0
 # Configuration and CLI
 pydantic-settings>=2.10,<3.0
 python-dotenv>=1.1,<2.0
-typer>=0.20,<1.0fesdefsdfs
-rich>=14.0,<15.0fdsfds
-
+typer>=0.20,<1.0
+rich>=14.0,<15.0
+fsdaa\
+dfsafsafadsass
+asdfasfsd
 # Tests and code quality (kept here for the learning project's simple setup)
 pytest>=9.0,<10.0
 pytest-cov>=7.0,<8.0
-ruff>=0.14,<11111111111111.0
+ruff>=0.14,<1.0
