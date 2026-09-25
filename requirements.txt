@@ -22,4 +22,4 @@ rich>=14.0,<15.0
 # Tests and code quality (kept here for the learning project's simple setup)
 pytest>=9.0,<10.0
 pytest-cov>=7.0,<8.0
-ruff>=0.14,<1.0
+ruff>=0.14,<11111111111111.0
